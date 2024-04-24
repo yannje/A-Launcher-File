@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>0.1.0.0</version>
-  <url></url>
+  <url>https://github.com/yannje/A-Launcher-File/raw/main/A-Launcher/A-Launcher.zip</url>
   <changelog>https://github.com/yannje/A-launcher/releases</changelog>
   <mandatory>true</mandatory>
 </item>
