@@ -1,0 +1,889 @@
+{
+  "fichiers": [
+    {
+      "nom": "Ad-Astra-Giselle-Addon-forge-1.20.1-6.19.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Ad-Astra-Giselle-Addon-forge-1.20.1-6.19.jar",
+      "sha1": "ae5c5a2b9707f9e7f84b62214080e61ba2eed0ff"
+    },
+    {
+      "nom": "ad_astra-forge-1.20.1-1.15.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra-forge-1.20.1-1.15.20.jar",
+      "sha1": "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
+    },
+    {
+      "nom": "ad_astra_cannedfood-forge-1.2.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra_cannedfood-forge-1.2.5.jar",
+      "sha1": "b0c55a2af743cfd743c85407fbe00161a51e4e98"
+    },
+    {
+      "nom": "ad_astra_dh-1.1.0-forge-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra_dh-1.1.0-forge-1.20.1.jar",
+      "sha1": "a52a37079dace1f6426940a0305cbb707296f614"
+    },
+    {
+      "nom": "ad_astra_extra_additions-1.20.1-1.1.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra_extra_additions-1.20.1-1.1.1.jar",
+      "sha1": "498e251d159a3763dd70d16399daf99642484764"
+    },
+    {
+      "nom": "ad_astra_more_structures-1.0.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra_more_structures-1.0.0.jar",
+      "sha1": "7ceb1df8113e4e87ac74c61a4f2cdd2f6d6ceca4"
+    },
+    {
+      "nom": "ad_astra_rocketed-forge-1.20.1-1.0.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra_rocketed-forge-1.20.1-1.0.3.jar",
+      "sha1": "18a308253b89f32bce22782b790a3a8284e7ca0b"
+    },
+    {
+      "nom": "ad_astra_star-1.0.0-forge-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_astra_star-1.0.0-forge-1.20.1.jar",
+      "sha1": "64e693ca044e4358f1e3deb34e061a66ac2dacbd"
+    },
+    {
+      "nom": "ad_extendra-forge-1.20.1-1.1.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ad_extendra-forge-1.20.1-1.1.2.jar",
+      "sha1": "a13bebcd14beb12cf1038dddfe502eebee1c5060"
+    },
+    {
+      "nom": "alexscaves-2.0.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53"
+    },
+    {
+      "nom": "alexscavesbettercombat.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//alexscavesbettercombat.jar",
+      "sha1": "c31b52cf3e5dcd95ed6456b02a8133fb7e9ec53f"
+    },
+    {
+      "nom": "alexsdelight-1.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//alexsdelight-1.5.jar",
+      "sha1": "ef7049ba6f16df22c8d98dd4dad2d9dc2aa6b6ba"
+    },
+    {
+      "nom": "alexsmobs-1.22.9.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
+    },
+    {
+      "nom": "alexsmobsinteraction-5.4-all.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//alexsmobsinteraction-5.4-all.jar",
+      "sha1": "4b5376f52539122e8eca84679a7aa540ad15e0d4"
+    },
+    {
+      "nom": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "nom": "Aquaculture-1.20.1-2.5.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Aquaculture-1.20.1-2.5.5.jar",
+      "sha1": "726e1058f839e98786877d3f94527b1a0917e924"
+    },
+    {
+      "nom": "aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "sha1": "e20e281d1d8909d334a331e110ad091d4b03027f"
+    },
+    {
+      "nom": "architectury-9.2.14-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "nom": "ArPhEx-4-pre2-5.0-forge-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ArPhEx-4-pre2-5.0-forge-1.20.1.jar",
+      "sha1": "425059649131bc82615bce47a36303233173bba5"
+    },
+    {
+      "nom": "athena-forge-1.20.1-3.1.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//athena-forge-1.20.1-3.1.2.jar",
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b"
+    },
+    {
+      "nom": "beekeeperhut-forge-mc1.20.1-2.0.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//beekeeperhut-forge-mc1.20.1-2.0.1.jar",
+      "sha1": "c058de89540ffb821d069281982b0312fae9b0d5"
+    },
+    {
+      "nom": "betterarcheology-1.2.1-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//betterarcheology-1.2.1-1.20.1.jar",
+      "sha1": "c2cb928bef1c1aa89e90e72b8544b885aceb5d01"
+    },
+    {
+      "nom": "betterendcities-1.0.0-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//betterendcities-1.0.0-1.20.1.jar",
+      "sha1": "be5951d1f64cbac1f1d5a60e415f6e7bd90551d4"
+    },
+    {
+      "nom": "betterendcitiesvanilla-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//betterendcitiesvanilla-1.20.1.jar",
+      "sha1": "320fbdca3c0cd7e06d74fbfdf0104ebd15dd719a"
+    },
+    {
+      "nom": "better_oil_deposits-1.2.0-forge-1.20.1 .jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//better_oil_deposits-1.2.0-forge-1.20.1%20.jar",
+      "sha1": "b48b99f2892f692e061ae0c581a1415793920618"
+    },
+    {
+      "nom": "Big Globe-5.0.8-MC1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Big%20Globe-5.0.8-MC1.20.1.jar",
+      "sha1": "b149eb44312a72c42fb1e5a0a87aca8c64fed143"
+    },
+    {
+      "nom": "big-globe-ad-astra-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-ad-astra-compatibility-1.0.jar",
+      "sha1": "1dee20274d98d114e1a5326fc6533a2585528eb8"
+    },
+    {
+      "nom": "big-globe-when-dungeons-arise-compatibility-1.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-when-dungeons-arise-compatibility-1.1.jar",
+      "sha1": "047c28553fd0be80cb7e0cc7e38b8976be02b67a"
+    },
+    {
+      "nom": "big-globe-yungs-better-desert-temples-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-desert-temples-compatibility-1.0.jar",
+      "sha1": "481c7d540f5c6c5f1fdc30d298f73ce76a71c5fc"
+    },
+    {
+      "nom": "big-globe-yungs-better-dungeons-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-dungeons-compatibility-1.0.jar",
+      "sha1": "ded66de553215d932b7e3d5020ed8ffc04d0793c"
+    },
+    {
+      "nom": "big-globe-yungs-better-jungle-temples-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-jungle-temples-compatibility-1.0.jar",
+      "sha1": "555b46ddfa5ff0e6a04f3b292faa4a4ef98e196f"
+    },
+    {
+      "nom": "big-globe-yungs-better-nether-fortresses-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-nether-fortresses-compatibility-1.0.jar",
+      "sha1": "d0d7446f5bdbde249cdc996c48f9de490156da65"
+    },
+    {
+      "nom": "big-globe-yungs-better-ocean-monuments-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-ocean-monuments-compatibility-1.0.jar",
+      "sha1": "e7a3a94337fdaf32d6caa9b227f5e172337b638f"
+    },
+    {
+      "nom": "big-globe-yungs-better-strongholds-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-strongholds-compatibility-1.0.jar",
+      "sha1": "056ed4036a66ebd14211033689dbc4eb45972f8f"
+    },
+    {
+      "nom": "big-globe-yungs-better-witch-huts-compatibility-1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//big-globe-yungs-better-witch-huts-compatibility-1.0.jar",
+      "sha1": "c2b1cc5a24ce024403ed2d530b5ef294b8105189"
+    },
+    {
+      "nom": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "sha1": "f6ffd20b9825c4a69d93af7caed701a60bf804b5"
+    },
+    {
+      "nom": "blueprint-1.20.1-7.1.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//blueprint-1.20.1-7.1.3.jar",
+      "sha1": "fdf9cb568546e80485ea4402a39656ed9acfa991"
+    },
+    {
+      "nom": "botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//botarium-forge-1.20.1-2.3.4.jar",
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
+    },
+    {
+      "nom": "BrewinAndChewin-1.20.1-3.2.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//BrewinAndChewin-1.20.1-3.2.1.jar",
+      "sha1": "b11a91386ef9da2569b69fd4c229b1c31dcc2eb9"
+    },
+    {
+      "nom": "chat_heads-0.13.21-forge-1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//chat_heads-0.13.21-forge-1.20.jar",
+      "sha1": "2da1b635c8a8fd98b1b75696fcceae692584e4b5"
+    },
+    {
+      "nom": "chipped-forge-1.20.1-3.0.7.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//chipped-forge-1.20.1-3.0.7.jar",
+      "sha1": "25ee2a0846059d8f21d28b94b7e0229b60cb5499"
+    },
+    {
+      "nom": "citadel-2.6.2-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//citadel-2.6.2-1.20.1.jar",
+      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd"
+    },
+    {
+      "nom": "cloth-config-11.1.136-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+    },
+    {
+      "nom": "cobweb-forge-1.20.1-1.0.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//cobweb-forge-1.20.1-1.0.1.jar",
+      "sha1": "607bbb82656d28ddfaa5ef2ec6e9c413859f5956"
+    },
+    {
+      "nom": "collective-1.20.1-8.10.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//collective-1.20.1-8.10.jar",
+      "sha1": "614042984febcc591557b32280ea73a055c5a513"
+    },
+    {
+      "nom": "comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//comforts-forge-6.4.0%2B1.20.1.jar",
+      "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e"
+    },
+    {
+      "nom": "crabbersdelight-1.20.1-1.2.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//crabbersdelight-1.20.1-1.2.3.jar",
+      "sha1": "a625f5b0e377597f7c884768ea8b9d0a81206831"
+    },
+    {
+      "nom": "create-1.20.1-6.0.7.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//create-1.20.1-6.0.7.jar",
+      "sha1": "23b00ed50c303312450c80a5b369f750e1b225d9"
+    },
+    {
+      "nom": "cristellib-1.1.6-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//cristellib-1.1.6-forge.jar",
+      "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1"
+    },
+    {
+      "nom": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//curios-forge-5.14.1%2B1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+    },
+    {
+      "nom": "Delightful-1.20.1-3.7.6.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Delightful-1.20.1-3.7.6.jar",
+      "sha1": "e474f9de02552d2361f15e1422316950b1172bf8"
+    },
+    {
+      "nom": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5"
+    },
+    {
+      "nom": "dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//dynamic-fps-3.9.5%2Bminecraft-1.20.0-forge.jar",
+      "sha1": "a034d1752abd84dc188852dac1ef87fb8ab2247a"
+    },
+    {
+      "nom": "DynamicTrees-1.20.1-1.4.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//DynamicTrees-1.20.1-1.4.5.jar",
+      "sha1": "dc4745637e2cc249b166e1c4d882ba8f9961a285"
+    },
+    {
+      "nom": "DynamicTreesBOP-1.20.1-3.3.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//DynamicTreesBOP-1.20.1-3.3.3.jar",
+      "sha1": "ba42a7eb2f9681cd5f752ce467252d2e4c11262a"
+    },
+    {
+      "nom": "DynamicTreesPlus-1.20.1-1.2.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//DynamicTreesPlus-1.20.1-1.2.1.jar",
+      "sha1": "298fe08ad681c286c00bb30561060c3eb89f0935"
+    },
+    {
+      "nom": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+    },
+    {
+      "nom": "embellishcraft-1.20.1-7.0.0.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//embellishcraft-1.20.1-7.0.0.0.jar",
+      "sha1": "2d3ec70b9b2f94536e2354c08be5424c8a49c494"
+    },
+    {
+      "nom": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "sha1": "636a2b20a5973fcb80016370865cb4251e029b6a"
+    },
+    {
+      "nom": "EndlessBiomes 1.6.0 - 1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//EndlessBiomes%201.6.0%20-%201.20.1.jar",
+      "sha1": "a3bddf42bf51bc65e44ad750071b5652803904b9"
+    },
+    {
+      "nom": "endrem_forge-5.3.3-R-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//endrem_forge-5.3.3-R-1.20.1.jar",
+      "sha1": "b4df41de8439e834a493fe59842709ef33ecfa82"
+    },
+    {
+      "nom": "ends_delight-2.5.1+forge.1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ends_delight-2.5.1%2Bforge.1.20.1.jar",
+      "sha1": "535c442625be4bd26ee637cdf7055c30b79a0b65"
+    },
+    {
+      "nom": "entityculling-forge-1.8.2-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//entityculling-forge-1.8.2-mc1.20.1.jar",
+      "sha1": "0a465a4dbbc4b21b3465bb15796635b5c1024cf4"
+    },
+    {
+      "nom": "entity_texture_features_1.20.1-forge-7.0.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//entity_texture_features_1.20.1-forge-7.0.2.jar",
+      "sha1": "24c555adc1398a5a516cd511e724b125ed38a804"
+    },
+    {
+      "nom": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar",
+      "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3"
+    },
+    {
+      "nom": "fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar",
+      "sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82"
+    },
+    {
+      "nom": "FarmersDelight-1.20.1-1.2.9.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//FarmersDelight-1.20.1-1.2.9.jar",
+      "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18"
+    },
+    {
+      "nom": "farmersrespite-1.20.1-2.1.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//farmersrespite-1.20.1-2.1.2.jar",
+      "sha1": "9ae5bc246cb1a8f3573ab685a4e9ddfaf869e2de"
+    },
+    {
+      "nom": "ferritecore-6.0.1-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "nom": "floating_islands-1.3.8.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//floating_islands-1.3.8.jar",
+      "sha1": "0a7c47a8045b9a2ba37ab784c560e0acd33947a5"
+    },
+    {
+      "nom": "forge-medievalend-1.0.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//forge-medievalend-1.0.1.jar",
+      "sha1": "11e2b53ec5c85ee01fe689ea9ebd695ee0ceb299"
+    },
+    {
+      "nom": "Forgematica-0.1.13-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Forgematica-0.1.13-mc1.20.1.jar",
+      "sha1": "d235d2ac0ce0143425d4d1e3d9a32d32fc994a93"
+    },
+    {
+      "nom": "ForgematicaPrinter-0.1.0+mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ForgematicaPrinter-0.1.0%2Bmc1.20.1.jar",
+      "sha1": "068765fc2bad038ff306e955c61f145d7cc6681b"
+    },
+    {
+      "nom": "formations-1.0.4-forge-mc1.20.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//formations-1.0.4-forge-mc1.20.2.jar",
+      "sha1": "110c95382a63c9ed4eb76125bc2fed09cac6d905"
+    },
+    {
+      "nom": "formationsnether-1.0.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//formationsnether-1.0.5.jar",
+      "sha1": "5a6371db683b4d33f5034f7d192424cfe73ea05f"
+    },
+    {
+      "nom": "framework-forge-1.20.1-0.7.15.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//framework-forge-1.20.1-0.7.15.jar",
+      "sha1": "0963ba5c19634030dbf1358b5c5f5fb341fede73"
+    },
+    {
+      "nom": "friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+      "sha1": "f8c84d824c433e7e6e9f44ae6d4885925a08087f"
+    },
+    {
+      "nom": "fusion-1.2.11a-forge-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//fusion-1.2.11a-forge-mc1.20.1.jar",
+      "sha1": "d356430ff9fe588998f4b85eb3a6b5b0e57e2b85"
+    },
+    {
+      "nom": "geckolib-forge-1.20.1-4.8.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//geckolib-forge-1.20.1-4.8.2.jar",
+      "sha1": "395a9f21a36dc8466d67c2af67a904e7013460d1"
+    },
+    {
+      "nom": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha1": "bba0b08fe76b28b35243fee53f99d54a18153b53"
+    },
+    {
+      "nom": "goblintraders-forge-1.20.1-1.11.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//goblintraders-forge-1.20.1-1.11.5.jar",
+      "sha1": "12bf1775fae7132c4f10ce3f61122bc0a2f171d6"
+    },
+    {
+      "nom": "gravestone-forge-1.20.1-1.0.35.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//gravestone-forge-1.20.1-1.0.35.jar",
+      "sha1": "a5592ab84eae317907e5003f590cc4a8ba9cbe49"
+    },
+    {
+      "nom": "harvest-with-ease-forge-1.20.1-9.4.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//harvest-with-ease-forge-1.20.1-9.4.0.jar",
+      "sha1": "ba6e32f809125fc865b4da6295192157445f78c4"
+    },
+    {
+      "nom": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//ImmediatelyFast-Forge-1.5.2%2B1.20.4.jar",
+      "sha1": "2eeca5deb063ed49bb9c6be8b162ca6270202239"
+    },
+    {
+      "nom": "immersivelanterns-forge-1.0.6-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//immersivelanterns-forge-1.0.6-1.20.1.jar",
+      "sha1": "9d24f9e23742f962864aefc96d817f12b6382a5e"
+    },
+    {
+      "nom": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//immersive_aircraft-1.4.0%2B1.20.1-forge.jar",
+      "sha1": "64e6c792c5208005ee6b099e8fb7d2738873737d"
+    },
+    {
+      "nom": "jei-1.20.1-forge-15.20.0.116.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//jei-1.20.1-forge-15.20.0.116.jar",
+      "sha1": "ebb8d9033c29538824281b3ac651c49135aba78e"
+    },
+    {
+      "nom": "journeymap-1.20.1-5.10.3-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//journeymap-1.20.1-5.10.3-forge.jar",
+      "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a"
+    },
+    {
+      "nom": "JustEnoughMekanismMultiblocks-1.20.1-4.14.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//JustEnoughMekanismMultiblocks-1.20.1-4.14.jar",
+      "sha1": "1d3a7471c18328c7a0b6696f0bc76e9bf8228659"
+    },
+    {
+      "nom": "justzoom_forge_2.1.1_MC_1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//justzoom_forge_2.1.1_MC_1.20.1.jar",
+      "sha1": "8bbcdfb61e9f0f738af0efff12c93b8f9daf2fb0"
+    },
+    {
+      "nom": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha1": "2019d821bed9071daabed43979433a5473ceee49"
+    },
+    {
+      "nom": "kotlinforforge-4.11.0-all.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//kotlinforforge-4.11.0-all.jar",
+      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+    },
+    {
+      "nom": "lambdynamiclights-4.4.0+1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//lambdynamiclights-4.4.0%2B1.20.1.jar",
+      "sha1": "eb50a56760e7b8ccbee5479cf31b55375434ae76"
+    },
+    {
+      "nom": "lionfishapi-2.4-Fix.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//lionfishapi-2.4-Fix.jar",
+      "sha1": "b198f38fb27dfc6db490b496d56aa1622d5a5b87"
+    },
+    {
+      "nom": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha1": "d1a755de84ee5d8910ff1e65e815473056e93ece"
+    },
+    {
+      "nom": "lostcities-1.20-7.4.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//lostcities-1.20-7.4.5.jar",
+      "sha1": "96bfd9e9840817a407fb5e4ce37bc74f90e85296"
+    },
+    {
+      "nom": "lukis-grand-capitals-1.1.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//lukis-grand-capitals-1.1.2.jar",
+      "sha1": "bdf6cf6338e26825324da4ec2cc380b9f485a4a2"
+    },
+    {
+      "nom": "L_Enders_Cataclysm-3.16.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//L_Enders_Cataclysm-3.16.jar",
+      "sha1": "25d84c486a817ba54362ea1f4b82b6d3802cc074"
+    },
+    {
+      "nom": "MaFgLib-0.1.14-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MaFgLib-0.1.14-mc1.20.1.jar",
+      "sha1": "fd18a3d8a9a72ee27cbb709a88c061b2347d2244"
+    },
+    {
+      "nom": "mapperbase-1.20.1-6.0.0.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mapperbase-1.20.1-6.0.0.0.jar",
+      "sha1": "28261acfd87bb7f1fb6ee8f8f003e32f72b7b646"
+    },
+    {
+      "nom": "mekalus-mc1.20.1-1.8.0.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mekalus-mc1.20.1-1.8.0.1.jar",
+      "sha1": "64cda2a07ae9a7d129e50f2319aa1d45fa9772c4"
+    },
+    {
+      "nom": "Mekanism-1.20.1-10.4.16.80.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Mekanism-1.20.1-10.4.16.80.jar",
+      "sha1": "b7f12ae710888b01746507a0aa8cb375f5897158"
+    },
+    {
+      "nom": "mekanism-ad-astra-ores-forge-1.20.1-1.1.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mekanism-ad-astra-ores-forge-1.20.1-1.1.0.jar",
+      "sha1": "c418843143ead1a37825d9dbb49d97b5b35afbfd"
+    },
+    {
+      "nom": "MekanismAdditions-1.20.1-10.4.16.80.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MekanismAdditions-1.20.1-10.4.16.80.jar",
+      "sha1": "64e930adf31b23db53412a62b0e8f950e64f7f2d"
+    },
+    {
+      "nom": "mekanismcovers-1.3-BETA+1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mekanismcovers-1.3-BETA%2B1.20.jar",
+      "sha1": "797a35ae6dd408ac8c4c429b1cd03f5b2a359b0e"
+    },
+    {
+      "nom": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MekanismGenerators-1.20.1-10.4.16.80.jar",
+      "sha1": "53fa707fd204ca1dd099a08995c2197145ff9a36"
+    },
+    {
+      "nom": "MekanismTools-1.20.1-10.4.16.80.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MekanismTools-1.20.1-10.4.16.80.jar",
+      "sha1": "0d22b1cc01a33702f1b9e17b26cc55e233a4e7ff"
+    },
+    {
+      "nom": "mekanism_extras-1.20.1-1.4.6.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mekanism_extras-1.20.1-1.4.6.jar",
+      "sha1": "95eac643afbf02511e90d0f5d57ca840ac05b080"
+    },
+    {
+      "nom": "mekmm-1.20.1-1.0.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mekmm-1.20.1-1.0.1.jar",
+      "sha1": "e3e8e3bf67c8795b5657bb1f1959aec882c77edf"
+    },
+    {
+      "nom": "memoryleakfix-forge-1.17+-1.1.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//memoryleakfix-forge-1.17%2B-1.1.5.jar",
+      "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a"
+    },
+    {
+      "nom": "mes-1.4.6-1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mes-1.4.6-1.20.jar",
+      "sha1": "849577ebba438bafa8eb8f5769292cf943563d93"
+    },
+    {
+      "nom": "minecraft-comes-alive-7.6.12+1.20.1-universal.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//minecraft-comes-alive-7.6.12%2B1.20.1-universal.jar",
+      "sha1": "e6deedb55ab0e1578ebae88234ba4b07e6928f82"
+    },
+    {
+      "nom": "miners_delight-1.20.1-1.2.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//miners_delight-1.20.1-1.2.3.jar",
+      "sha1": "817ab785307e34895900fa23ce9d5dc4ee8eadf5"
+    },
+    {
+      "nom": "mita_1.1_mc1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mita_1.1_mc1.20.jar",
+      "sha1": "617428014839c1245bec52bc6809a7905dbccc2e"
+    },
+    {
+      "nom": "modernfix-forge-5.24.4+mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//modernfix-forge-5.24.4%2Bmc1.20.1.jar",
+      "sha1": "daeccb1fbe1d67d426fcc8135cfff463ff0f7e1d"
+    },
+    {
+      "nom": "MoogsNetherStructures-1.20-2.0.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MoogsNetherStructures-1.20-2.0.0.jar",
+      "sha1": "eeeaa1834c1532932f611baa62ac1a5f20d5ce07"
+    },
+    {
+      "nom": "MoogsVoyagerStructures-1.20-5.0.21.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MoogsVoyagerStructures-1.20-5.0.21.jar",
+      "sha1": "0fd4ccc793730f65cd00cf9a5df38bbcf6130511"
+    },
+    {
+      "nom": "moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar",
+      "sha1": "805a03f9a16336cd380b2d38e27e7288787914fd"
+    },
+    {
+      "nom": "moreculling-1.20.4-0.24.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//moreculling-1.20.4-0.24.0.jar",
+      "sha1": "a40f2aa346140a4fee2079d845c62ee87454bdb6"
+    },
+    {
+      "nom": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c"
+    },
+    {
+      "nom": "mss-1.2.7-1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//mss-1.2.7-1.20.jar",
+      "sha1": "ef3a1a4c2eb26e5be6d3abc0f03e7d74cdf64b3a"
+    },
+    {
+      "nom": "MTR-forge-4.0.2-hotfix-1+1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MTR-forge-4.0.2-hotfix-1%2B1.20.1.jar",
+      "sha1": "0e4e332c037ca8ca1f21353375c10b737106f720"
+    },
+    {
+      "nom": "MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+      "sha1": "9675f602022f6ec87535dafb97f392c3a8f6f734"
+    },
+    {
+      "nom": "MyNethersDelight-1.20.1-0.1.8.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//MyNethersDelight-1.20.1-0.1.8.jar",
+      "sha1": "b5b78ac524f17ba19242d7778c321ff10476eb9c"
+    },
+    {
+      "nom": "naturalist-5.0pre3+forge-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//naturalist-5.0pre3%2Bforge-1.20.1.jar",
+      "sha1": "8e02c89f476d39d279d4b174d1a9137ad45cd8e5"
+    },
+    {
+      "nom": "notenoughanimations-forge-1.10.2-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//notenoughanimations-forge-1.10.2-mc1.20.1.jar",
+      "sha1": "b31ffefa9579649de8acbac53ac0792830f71e60"
+    },
+    {
+      "nom": "nyfsspiders-forge-1.20.1-2.1.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//nyfsspiders-forge-1.20.1-2.1.1.jar",
+      "sha1": "20783131cc63dec55036ffde84ed72c7e3c648c3"
+    },
+    {
+      "nom": "oceansdelight-1.0.2-1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//oceansdelight-1.0.2-1.20.jar",
+      "sha1": "32af985453bde77bfa56d59cdfb11cab5662c8e1"
+    },
+    {
+      "nom": "owo-lib-0.11.2+1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//owo-lib-0.11.2%2B1.20.jar",
+      "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a"
+    },
+    {
+      "nom": "perspatium-1.20.1-1.2.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//perspatium-1.20.1-1.2.0.jar",
+      "sha1": "d6e472611dfa3e9d59c125dee4400fe80537362e"
+    },
+    {
+      "nom": "planets+-bv1.7.5-1.20x.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//planets%2B-bv1.7.5-1.20x.jar",
+      "sha1": "0663b6a09b8a054c8849a478c875cbe8826ae2ce"
+    },
+    {
+      "nom": "planets+-mekinisam-compat-bv1.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//planets%2B-mekinisam-compat-bv1.1.jar",
+      "sha1": "7af6c8bdda7487d83dae21cffd910f6aa7eb9225"
+    },
+    {
+      "nom": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf"
+    },
+    {
+      "nom": "QueenBee-Forge-1.20.1-3.1.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//QueenBee-Forge-1.20.1-3.1.3.jar",
+      "sha1": "501ae961258d1cd6aa35aec494c9568522028af0"
+    },
+    {
+      "nom": "rechiseled-1.1.6-forge-mc1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//rechiseled-1.1.6-forge-mc1.20.jar",
+      "sha1": "cacec8ace7987d33e76873bf574704aea7564a4e"
+    },
+    {
+      "nom": "rechiseled_chipped-1.2.1-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//rechiseled_chipped-1.2.1-1.20.1.jar",
+      "sha1": "b47fa2e7326c90b0ab4a52fc71da5982ba94dbee"
+    },
+    {
+      "nom": "rechiseled_fans-1.0.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//rechiseled_fans-1.0.0.jar",
+      "sha1": "c26c46972aa16447e6f4adf44770886222164835"
+    },
+    {
+      "nom": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322"
+    },
+    {
+      "nom": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14"
+    },
+    {
+      "nom": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
+      "nom": "skinlayers3d-forge-1.9.0-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//skinlayers3d-forge-1.9.0-mc1.20.1.jar",
+      "sha1": "be3070725cc01e3df10560b29b4f340126d1ec46"
+    },
+    {
+      "nom": "skinrestorer-2.4.3+1.20-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//skinrestorer-2.4.3%2B1.20-forge.jar",
+      "sha1": "c2b161dd0bee1b5ceef7c2b2f8b415517eb4125f"
+    },
+    {
+      "nom": "sliceanddice-forge-3.5.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//sliceanddice-forge-3.5.2.jar",
+      "sha1": "bdd6d2be506b584f115996159fe48cc0a7894d6f"
+    },
+    {
+      "nom": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9"
+    },
+    {
+      "nom": "sodiumextras-forge-1.0.7-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d"
+    },
+    {
+      "nom": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c"
+    },
+    {
+      "nom": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha1": "aef2c02392624f0a12475ada809366b12ac9ec52"
+    },
+    {
+      "nom": "storagedelight-25.06.26-1.20-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//storagedelight-25.06.26-1.20-forge.jar",
+      "sha1": "fe9201577effb4d1d448bd8bdf50c0e91f505804"
+    },
+    {
+      "nom": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281"
+    },
+    {
+      "nom": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+      "sha1": "d37e1148b512c67cee704635b4f07d1f9ea8c31c"
+    },
+    {
+      "nom": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha1": "b3dbaf1aac31601b9efb19e4c67646750041968a"
+    },
+    {
+      "nom": "TheOuterEnd-1.0.12.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//TheOuterEnd-1.0.12.jar",
+      "sha1": "bf6e0635a4983abbedb5d48298a705a3a1b357c6"
+    },
+    {
+      "nom": "the_deep_void-1.95-forge-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//the_deep_void-1.95-forge-1.20.1.jar",
+      "sha1": "12162c1d8e635a144e6b3f775641fba01c717794"
+    },
+    {
+      "nom": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "sha1": "11ae4c94aa94b38b78cf9b901dad4612b679f8ac"
+    },
+    {
+      "nom": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//Towns-and-Towers-1.12-Fabric%2BForge.jar",
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b"
+    },
+    {
+      "nom": "twilightforest-1.20.1-4.3.2508-universal.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//twilightforest-1.20.1-4.3.2508-universal.jar",
+      "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f"
+    },
+    {
+      "nom": "txnilib-forge-1.0.24-1.20.1.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//txnilib-forge-1.0.24-1.20.1.jar",
+      "sha1": "a1e16b7d61f0f16a162d429ee1eab9b4e3eeb9ef"
+    },
+    {
+      "nom": "villagernames-1.20.1-8.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//villagernames-1.20.1-8.2.jar",
+      "sha1": "249a964cc0f21c5c4dc339f4b2221eeebd6e1b4b"
+    },
+    {
+      "nom": "villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+      "sha1": "f80991a44ece347f0be2724c63159b6e46ae8393"
+    },
+    {
+      "nom": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4"
+    },
+    {
+      "nom": "YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsApi-1.20-Forge-4.0.6.jar",
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833"
+    },
+    {
+      "nom": "YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+      "sha1": "d05e4298569fac7ac9337c8889bcaef3f708feae"
+    },
+    {
+      "nom": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6"
+    },
+    {
+      "nom": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e"
+    },
+    {
+      "nom": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76"
+    },
+    {
+      "nom": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259"
+    },
+    {
+      "nom": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+    },
+    {
+      "nom": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a"
+    },
+    {
+      "nom": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f"
+    },
+    {
+      "nom": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "sha1": "3730238c56edca4bb5b2238e1314aec572ced385"
+    },
+    {
+      "nom": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169"
+    },
+    {
+      "nom": "YungsBridges-1.20-Forge-4.0.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsBridges-1.20-Forge-4.0.3.jar",
+      "sha1": "88467fe87b95e6cf7a432822033cf74dd8586254"
+    },
+    {
+      "nom": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+      "sha1": "c0a57a7d5a0cea0297f82a482490fc1e7933695f"
+    },
+    {
+      "nom": "YungsExtras-1.20-Forge-4.0.3.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsExtras-1.20-Forge-4.0.3.jar",
+      "sha1": "4b2e632353a95c16a080c2e64c426480a139fbd6"
+    },
+    {
+      "nom": "YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+      "sha1": "b43a0bc054d3974076d36b5cfec6aeab968d24a6"
+    },
+    {
+      "nom": "[Forge] Ad Astra Tools 2.0.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//%5BForge%5D%20Ad%20Astra%20Tools%202.0.jar",
+      "sha1": "7b4837685f108d879dfc7f80d55e1f9d88d30687"
+    },
+    {
+      "nom": "[forge]ctov-3.4.14.jar",
+      "url": "https://webfile.unaux.com/minecraft/mods//%5Bforge%5Dctov-3.4.14.jar",
+      "sha1": "8fa73fd4c5ae58636e159e54321651adf555ac44"
+    }
+  ]
+}
